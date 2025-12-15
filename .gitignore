@@ -8,3 +8,7 @@ venv/
 .env/
 
 .DS_Store
+.pytest_cache/
+reports/
+data/
+*.db
